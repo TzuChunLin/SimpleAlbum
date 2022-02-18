@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AutoInch (2.2.0)
+  - Kingfisher (4.10.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - AutoInch
+  - Kingfisher (~> 4.10.1)
+  - SwiftyJSON (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AutoInch
+    - Kingfisher
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AutoInch: 1239050818579ea0cb009cfb73c153f83e83f3ce
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: cf05646531bffad89335e1754838e77c47cc3e15
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Pods_SimpleAlbum {
+  umbrella header "Pods-SimpleAlbum-umbrella.h"
+
+  export *
+  module * { export * }
+}
